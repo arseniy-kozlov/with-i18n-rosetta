@@ -1,10 +1,10 @@
 {
   "intro": {
     "welcome": "Willkommen, {{username}}!",
-    "text": "Ich hoffe, du findest das nützlich.",
-    "description": "Das Beispiel zeigt, wie man die Sprache für SSG und SSR optimierte Seiten wechselt."
+    "description": "Dieses Beispiel zeigt, wie Sie ganz einfach eine mehrsprachige Webanwendung erstellen können",
+    "title": "Lassen Sie es uns gemeinsam schaffen"
   },
   "dashboard": {
-    "description": "Das Beispiel zeigt, wie man die Sprache nur Frontendseitig verändert. Nützlich für Dashboards wo SEO nicht relevant ist."
+    "description": "Dieses Beispiel zeigt, wie die Sprache nur auf der Clientseite geändert wird. Nützlich für Dashboards, da diese keine SEO erfordern."
   }
 }
