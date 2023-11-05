@@ -2,7 +2,7 @@
   "intro": {
     "welcome": "Willkommen, {{username}}!",
     "description": "Dieses Beispiel zeigt, wie Sie ganz einfach eine mehrsprachige Webanwendung erstellen können",
-    "title": "Lassen Sie es uns gemeinsam schaffen"
+    "title": "Lass es uns gemeinsam tun"
   },
   "dashboard": {
     "description": "Dieses Beispiel zeigt, wie die Sprache nur auf der Clientseite geändert wird. Nützlich für Dashboards, da diese keine SEO erfordern."
