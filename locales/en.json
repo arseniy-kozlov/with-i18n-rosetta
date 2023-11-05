@@ -2,7 +2,7 @@
   "intro": {
     "welcome": "Welcome, {{username}}!",
     "description": "This example demonstrates how to easily build multilingual web application",
-    "title": "Let's fo it together"
+    "title": "Let's do it together"
   },
   "dashboard": {
     "description": "This example demonstrates how to change the language on client side only. Useful for dashboards because they don't require SEO."
