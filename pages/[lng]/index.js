@@ -16,7 +16,7 @@ const HomePage = () => {
         />
       </Head>
       <Title username="Peter" />
-      <h2>{i18n.t('intro.text')}</h2>
+      <h2>{i18n.t('intro.title')}</h2>
       <h3>{i18n.t('intro.description')}</h3>
       <div>Current locale: {i18n.activeLocale}</div>
       <Link href="/[lng]" as="/de">

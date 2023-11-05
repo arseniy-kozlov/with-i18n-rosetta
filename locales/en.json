@@ -1,10 +1,10 @@
 {
   "intro": {
     "welcome": "Welcome, {{username}}!",
-    "text": "I hope you find this useful.",
-    "description": "This example demonstrate how to change the language for SSG and SSR optimized pages."
+    "description": "This example demonstrates how to easily build multilingual web application",
+    "title": "Let's fo it together"
   },
   "dashboard": {
-    "description": "This example demonstrate how to change the language on client side only. Useful for dashboards because they don't require SEO."
+    "description": "This example demonstrates how to change the language on client side only. Useful for dashboards because they don't require SEO."
   }
 }
