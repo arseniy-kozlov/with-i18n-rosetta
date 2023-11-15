@@ -1,0 +1,10 @@
+{
+  "intro": {
+    "welcome": "¡Bienvenido, {{username}}!",
+    "description": "Este ejemplo demuestra cómo crear fácilmente una aplicación web multilingüe con Gitloc",
+    "title": "Hagámoslo juntos"
+  },
+  "dashboard": {
+    "description": "Este ejemplo demuestra cómo cambiar el idioma únicamente en el lado del cliente. Útil para paneles porque no requieren SEO."
+  }
+}
