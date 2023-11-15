@@ -1,7 +1,7 @@
 {
   "intro": {
     "welcome": "Welcome, {{username}}!",
-    "description": "This example demonstrates how to easily build multilingual web application",
+    "description": "This example demonstrates how to easily build multilingual web application with Gitloc",
     "title": "Let's do it together"
   },
   "dashboard": {

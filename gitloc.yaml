@@ -3,5 +3,6 @@ config:
   locales:
     - en
     - de
+    - es
   directories:
     - locales
